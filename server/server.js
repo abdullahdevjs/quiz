@@ -10,7 +10,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-mongoose.connect("mongodb://127.0.0.1:27017/quizapp")
+mongoose.connect("mongodb+srv://username:password@cluster.mongodb.net/quiz")
 .then(()=>console.log("MongoDB Connected"));
 
 app.get("/",(req,res)=>{
