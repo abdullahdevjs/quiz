@@ -1,0 +1,253 @@
+[
+ {
+  "quizId":"67c9f5d2b81c3a4f2a9e1234",
+  "subject":"Science",
+  "question":"What is H2O?",
+  "options":["Water","Oxygen","Hydrogen","Helium"],
+  "answer":0,
+  "marks":4,
+  "negative":1
+ },
+ {
+  "quizId":"67c9f5d2b81c3a4f2a9e1234",
+  "subject":"Physics",
+  "question":"Unit of force?",
+  "options":["Newton","Joule","Pascal","Watt"],
+  "answer":0,
+  "marks":4,
+  "negative":1
+ },
+ {
+  "quizId":"67c9f5d2b81c3a4f2a9e1234",
+  "subject":"Programming",
+  "question":"Who created JavaScript?",
+  "options":["Brendan Eich","Bill Gates","Elon Musk","Mark Zuckerberg"],
+  "answer":0,
+  "marks":4,
+  "negative":1
+ },
+ {
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Programming",
+"question":"Which language is mainly used for web development in browsers?",
+"options":["Python","JavaScript","C","Java"],
+"answer":1,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Science",
+"question":"Which gas do plants absorb during photosynthesis?",
+"options":["Oxygen","Nitrogen","Carbon Dioxide","Hydrogen"],
+"answer":2,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Physics",
+"question":"What is the speed of light?",
+"options":["3×10^8 m/s","3×10^6 m/s","3×10^5 m/s","3×10^7 m/s"],
+"answer":0,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Biology",
+"question":"Which part of the cell contains genetic material?",
+"options":["Nucleus","Cytoplasm","Membrane","Ribosome"],
+"answer":0,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Programming",
+"question":"Who created the C programming language?",
+"options":["Dennis Ritchie","James Gosling","Bjarne Stroustrup","Guido van Rossum"],
+"answer":0,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"GK",
+"question":"Which planet is known as the Red Planet?",
+"options":["Earth","Mars","Jupiter","Saturn"],
+"answer":1,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Biology",
+"question":"Which organelle is known as the powerhouse of the cell?",
+"options":["Nucleus","Mitochondria","Ribosome","Golgi apparatus"],
+"answer":1,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Biology",
+"question":"DNA stands for?",
+"options":["Deoxyribonucleic Acid","Deoxyribose Acid","Dynamic Nucleic Acid","Double Nucleic Acid"],
+"answer":0,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Biology",
+"question":"Which blood cells help in clotting?",
+"options":["RBC","WBC","Platelets","Plasma"],
+"answer":2,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Biology",
+"question":"Which vitamin is produced when skin is exposed to sunlight?",
+"options":["Vitamin A","Vitamin B","Vitamin C","Vitamin D"],
+"answer":3,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Biology",
+"question":"Which part of the brain controls balance of the body?",
+"options":["Cerebrum","Cerebellum","Medulla","Hypothalamus"],
+"answer":1,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Programming",
+"question":"Which data structure uses FIFO principle?",
+"options":["Stack","Queue","Tree","Graph"],
+"answer":1,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Programming",
+"question":"Which keyword is used to create a class in Java?",
+"options":["function","class","define","struct"],
+"answer":1,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Programming",
+"question":"Which algorithm is used to find the shortest path in a graph?",
+"options":["Binary Search","Dijkstra Algorithm","Bubble Sort","Merge Sort"],
+"answer":1,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Programming",
+"question":"Which complexity represents logarithmic time?",
+"options":["O(n)","O(log n)","O(n^2)","O(1)"],
+"answer":1,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Programming",
+"question":"Which language is primarily used for React development?",
+"options":["Python","Java","JavaScript","C++"],
+"answer":2,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Programming",
+"question":"Which sorting algorithm has average time complexity O(n log n)?",
+"options":["Bubble Sort","Merge Sort","Selection Sort","Insertion Sort"],
+"answer":1,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Physics",
+"question":"Which law states that the current through a conductor is directly proportional to the potential difference across it?",
+"options":["Ohm's Law","Faraday's Law","Coulomb's Law","Newton's Law"],
+"answer":0,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Physics",
+"question":"Which particle has no electric charge?",
+"options":["Proton","Electron","Neutron","Positron"],
+"answer":2,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Physics",
+"question":"What is the SI unit of electric charge?",
+"options":["Volt","Coulomb","Ampere","Ohm"],
+"answer":1,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Chemistry",
+"question":"What is the pH value of pure water at 25°C?",
+"options":["5","6","7","8"],
+"answer":2,
+"marks":4,
+"negative":1
+},{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"Chemistry",
+"question":"Which gas is produced when zinc reacts with hydrochloric acid?",
+"options":["Oxygen","Hydrogen","Carbon dioxide","Nitrogen"],
+"answer":1,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"GK",
+"question":"Who was the first President of India?",
+"options":["Rajendra Prasad","Jawaharlal Nehru","Sardar Patel","Dr. B. R. Ambedkar"],
+"answer":0,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"GK",
+"question":"Which is the longest river in the world?",
+"options":["Amazon","Nile","Yangtze","Mississippi"],
+"answer":1,
+"marks":4,
+"negative":1
+},
+{
+"quizId":"69aafdfae93f3f2965f14448",
+"subject":"GK",
+"question":"Which country is known as the Land of the Rising Sun?",
+"options":["China","Japan","Thailand","South Korea"],
+"answer":1,
+"marks":4,
+"negative":1
+}
+]

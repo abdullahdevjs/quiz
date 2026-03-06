@@ -1,0 +1,165 @@
+/* ============================= */
+/* FOOTER */
+/* ============================= */
+
+.footer{
+
+width:100%;
+
+/* gradient match */
+
+background:linear-gradient(
+135deg,
+#4e54c8,
+#8f94fb
+);
+
+padding:60px 20px;
+
+margin-top:80px;
+
+border-top:1px solid rgba(255,255,255,0.15);
+
+/* smooth shadow */
+
+box-shadow:0 -10px 40px rgba(0,0,0,0.35);
+
+}
+
+/* ============================= */
+/* CONTAINER */
+/* ============================= */
+
+.footer-container{
+
+max-width:900px;
+
+margin:auto;
+
+text-align:center;
+
+}
+
+/* ============================= */
+/* LOGO */
+/* ============================= */
+
+.footer-logo{
+
+font-size:26px;
+
+font-weight:600;
+
+color:white;
+
+margin-bottom:20px;
+
+}
+
+/* ============================= */
+/* LINKS */
+/* ============================= */
+
+.footer-links{
+
+display:flex;
+
+justify-content:center;
+
+gap:28px;
+
+flex-wrap:wrap;
+
+margin-bottom:18px;
+
+}
+
+/* LINK STYLE */
+
+.footer-links a{
+
+display:flex;
+
+align-items:center;
+
+gap:8px;
+
+color:#ffffff;
+
+text-decoration:none;
+
+font-weight:500;
+
+font-size:15px;
+
+opacity:.9;
+
+transition:all .25s ease;
+
+}
+
+/* HOVER EFFECT */
+
+.footer-links a:hover{
+
+opacity:1;
+
+transform:translateY(-3px);
+
+color:#e3f2fd;
+
+}
+
+/* ============================= */
+/* COPYRIGHT */
+/* ============================= */
+
+.footer-copy{
+
+font-size:14px;
+
+color:rgba(255,255,255,0.85);
+
+margin-bottom:6px;
+
+}
+
+/* ============================= */
+/* CREDIT */
+/* ============================= */
+
+.footer-credit{
+
+font-size:13px;
+
+color:rgba(255,255,255,0.7);
+
+}
+
+/* ============================= */
+/* MOBILE */
+/* ============================= */
+
+@media(max-width:600px){
+
+.footer{
+
+padding:50px 15px;
+
+}
+
+.footer-links{
+
+flex-direction:column;
+
+gap:12px;
+
+}
+
+.footer-logo{
+
+font-size:22px;
+
+}
+
+}
