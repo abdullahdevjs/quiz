@@ -27,7 +27,7 @@ const [loading,setLoading]=useState(true)
 
 useEffect(()=>{
 
-fetch("http://localhost:5000/api/questions/69aafdfae93f3f2965f14448")
+fetch("https://quiz-backend-aa2h.onrender.com/api/questions/69aafdfae93f3f2965f14448")
 .then(res=>res.json())
 .then(data=>{
 setQuestions(data)
