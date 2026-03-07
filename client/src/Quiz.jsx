@@ -26,7 +26,6 @@ const [skippedCount,setSkippedCount]=useState(0)
 const [loading,setLoading]=useState(true)
 
 useEffect(()=>{
-
 fetch("https://quiz-backend-aa2h.onrender.com/api/questions/69aafdfae93f3f2965f14448")
 .then(res=>res.json())
 .then(data=>{
